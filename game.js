@@ -17,7 +17,7 @@ function displayRandomNumbers(){
 }
 
 function gameover(){
-    window.location.href="gameover.html"
+    window.location.href="./gameover.html"
     localStorage.setItem("score",score)
 }
 
